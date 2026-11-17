@@ -1,1 +1,1 @@
-# assignment-2
+A simple command-line application.
